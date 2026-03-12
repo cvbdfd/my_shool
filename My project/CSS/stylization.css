@@ -1,0 +1,28 @@
+
+body{
+    background-image: url(../Photo/fone.jpg);
+}
+
+h3{
+    font-size: 23px;
+    border: 2px;
+    background-color: rgb(162, 152, 152);
+    color: rgb(175, 10, 10);
+    font-family: Times New Roman;
+    border-radius: 10px;
+}
+
+p{
+    color: black;
+    background-color: rgb(115, 110, 110);
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.photo{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}

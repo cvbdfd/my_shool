@@ -1,0 +1,32 @@
+
+hr{
+    border: dashed 2px;
+}
+
+img{
+    width: 150px;
+}
+
+.up{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    gap: 10px;
+}
+
+.page, .Kiev{
+    border: 1px solid;
+    padding: 10px;
+    display: inline-block;
+}
+
+.page{
+    background-color: #e0cd80;
+}
+
+.pp{
+    background-color: rgb(67, 183, 80);
+    height: 200px;
+    color: rgb(67, 183, 80);
+    border: 3px solid rgb(1, 90, 39);
+}
